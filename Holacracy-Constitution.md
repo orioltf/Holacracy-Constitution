@@ -10,11 +10,11 @@ This **_“Constitution”_** defines rules and processes for the governance and
 
 ### 1.1 Roles
 
-The Organization’s Partners will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+The Organization’s Partners will typically perform the work of the Organization while acting in explicitly defined Roles. A **_“Role”_** has a descriptive name and one or more of the following:
 
 - **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of its own Purpose or to support other Roles in the Organization.
+- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
 
 ### 1.2 Circles
 
@@ -24,7 +24,20 @@ A Circle may also contain **_“Policies”_**, which are either grants of autho
 
 The collection of Roles and Policies within a Circle make up its acting **_“Governance”_**. No one may change the Governance of a Circle except through the **_“Governance Process”_** described in Article 3 or the process for defining an initial Governance structure described in Article 4.
 
-#### 1.2.1 Delegating Domains
+#### 1.2.1 Sub-Circles
+
+A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle. A Sub-Circle is still considered a normal Role within its Super-Circle, and behaves accordingly for the purpose of applying any rule or process in this Constitution.
+
+Through its Governance Process, a Circle may:
+
+- **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
+- **(b)** move its own defined Roles or Policies into a Sub-Circle, but only if they primarily enact the Purpose or Accountabilities of the Sub-Circle; or
+- **(c)** move defined Roles or Policies from within a Sub-Circle out into itself, but only if they are no longer needed to enact the Purpose or Accountabilities of the Sub-Circle; or
+- **(d)** remove a Sub-Circle entirely, or collapse it from a Circle back into just a Role.
+
+Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
+
+#### 1.2.2 Delegating Domains
 
 When a Circle grants a Domain to one of its Roles, a Partner filling that Role may control that Domain on behalf of the Circle, including defining Policies for that Domain outside of the Circle's Governance Process. The Circle retains the right to amend or remove any such Domain delegations, or to define or modify Policies acting upon that Domain itself. Any such Policies defined by the Circle trump any Policies defined by the Role, and these Circle-level Policies may only be modified through the Circle's Governance Process.
 
@@ -58,11 +71,9 @@ Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_*
 
 #### 1.4.1 Elections & Eligibility
 
-The Facilitator of each Circle will facilitate regular elections to elect a Partner into each of its Elected Roles, using the process and rules defined in Article 3.
+The Facilitator of each Circle will facilitate elections to elect a Partner into each of its Elected Roles, using the process and rules defined in Article 3.
 
-All Partners who fill an unelected Role within the Circle are eligible for election into its Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
-
-A Partner may hold multiple Elected Roles in a Circle.
+Partners who fill an unelected Role within a Circle are the only candidates eligible for election into its Elected Roles, except for the Lead Link, who may not serve as the Circle's Rep Link. A Policy of the Circle or any Super-Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
 #### 1.4.2 Election Terms & Revisiting
 
@@ -85,11 +96,13 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 1.5 Role Assignment
 
-The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated.
+The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. A Policy of a Circle may constrain Role assignment within that Circle and within Sub-Circles, recursively.
+
+When a Role is really a Sub-Circle, whoever is assigned to fill that Role also becomes the Lead Link of that Sub-Circle.
 
 #### 1.5.1 Unfilled Roles
 
-Whenever a Role defined by a Circle is unfilled, the person in the Role that holds a Domain on assignments into the unfilled Role is automatically considered to fill it until a new assignment is made.
+Whenever a Role defined by a Circle is unfilled, any person who controls assignments into that Role is automatically considered to fill it until a new assignment is made. If there is no one who clearly controls assignments into that Role, then the Lead Link of that Circle is automatically considered to fill the Role until a new assignment is made.
 
 #### 1.5.2 Assigning Roles to Multiple People
 
@@ -103,7 +116,7 @@ When a Role assignment includes a Focus, the Purpose, Accountabilities, and Doma
 
 When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role.
 
-### 1.6 Role Representatives
+### 1.6 Role Representation
 
 Each Role has one or more **_“Role Representatives”_** who will represent the Role within the Governance Process. By default, all Partners who fill a Role become its Role Representatives. However, the following exclusions may reduce this default representation:
 
@@ -114,29 +127,11 @@ If a Role defined by a Circle has no Role Representative for any reason, the Lea
 
 In any case, a Role Representative represents the Role as a Rep Link for anyone filling that Role who is not a Role Representative, unless relevant Governance creates an alternate pathway to provide a comparable function.
 
-### 1.7 Sub-Circles
+#### 1.6.1 Representing Sub-Circles
 
-A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+Both the Lead Link of a Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for that Sub-Circle within its Super-Circle. However, only the Lead Link actually fills the Sub-Circle Role and thus holds the associated responsibilities.
 
-#### 1.7.1 Modifying Sub-Circles
-
-Through its Governance Process, a Circle may:
-
-- **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
-- **(b)** move its own defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself; or
-- **(c)** remove a Sub-Circle entirely, or collapse it from a Circle back into just a Role.
-
-Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
-
-#### 1.7.2 Links & Sub-Circles
-
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Role defined by the Circle.
-
-Each Circle may elect a Rep Link to its Super-Circle.
-
-Both the Lead Link of the Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for the Sub-Circle within the Circle. However, only the Lead Link holds the responsibilities that come with the Sub-Circle's Purpose and Accountabilities.
-
-### 1.8 Inviting Outsiders into Circles
+#### 1.6.2 Inviting Outsiders into Circles
 
 A Circle may adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, the Role Representatives of the invited Role may participate in the Governance Process of the specified Circle, as if the invited Role was also within that Circle.
 
@@ -157,7 +152,7 @@ In service of your Role, you have the authority to use and impact your Role's Do
 
 You may also use and impact any Domain that the Circle containing your Role owns, or any Domain the Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within your Circle.
 
-You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or owned by another sovereign entity, unless you have their permission. Instead of asking for permission directly, you may also publish your intent to take a specific action, and see if anyone with a relevant Domain asks you not to within a reasonable timeframe. If no one does, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that customarily processes messages in the communication channel you used.
+You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used.
 
 #### 2.1.3 Don't Dispose of Resources
 
@@ -169,14 +164,14 @@ As a Partner of the Organization, you have the following responsibilities for ea
 
 #### 2.2.1 Processing Tensions
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the pathways available to you under this Constitution.
 
 #### 2.2.2 Processing Purpose & Accountabilities
 
 You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
 
 - **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+- **(b)** **_“Projects”_**, which are specific outcomes that require multiple actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
 
 #### 2.2.3 Processing Projects
 
@@ -210,7 +205,7 @@ You have a duty to provide transparency in any of the following areas upon reque
 You have a duty to promptly process messages and requests from your fellow Partners, as follows:
 
 - **(a) Requests for Processing:** Other Partners may ask you to process the Purpose or any Accountability or Project of a Role you fill. If you have no Next-Actions tracked to enact it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on, which must be a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions. Additionaly, if the Next-Action or waiting-on you share is one step towards a broader outcome and you aren't already tracking that as a Project, you must also capture and communicate that Project.
-- **(b) Requests for Projects & Next-Actions:** Other Partners may ask you to take on a specific Next-Action or Project in one of your Roles. If you believe that Next-Action or Project would make sense to work towards to express your Role's Purpose or Accountabilities, at least in the absence of competing priorities, then you must accept and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
+- **(b) Requests for Projects & Next-Actions:** Other Partners may ask you to take on a specific Next-Action or Project in one of your Roles. You must accept and track it if you believe that Next-Action or Project would make sense to work towards to express your Role's Purpose or Accountabilities, at least in the absence of competing priorities. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
 - **(c) Requests to Impact Domain:** Other Partners may ask to impact a Domain controlled by one of your Roles, and you must allow it if you see no Objections to the request (as defined in Section 3.2). If you do, you must explain any Objections to the requester.
 - **(d) Requests for Information:** Other Partners may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
 
@@ -294,7 +289,7 @@ Only these outputs are valid Governance for a Circle; no one may capture other o
 
 ### 3.2 Changing Governance
 
-Any Role Representative within a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all other Role Representatives within the Circle, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Role Representatives must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
+Any Role Representative within a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all other Role Representatives within the Circle, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Role Representatives must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
 
 Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Role Representatives within the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
@@ -308,38 +303,30 @@ A Circle may adopt Policies to further constrain when or how Proposals may be ma
 
 #### 3.2.2 Criteria for Valid Proposals
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer and help the Circle better express its Purpose or one of its Accountabilities. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Role Representative better express one of their Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from a normal Role Representative. However, a Proposal is always valid regardless of the preceding criteria if it is made solely to evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, then the Facilitator must discard the Proposal. However, in making this assessment, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not discard a Proposal based on the accuracy of the Proposer's argument, nor on whether the Proposal would adequately address the Tension.
 
-#### 3.2.3 Testing Proposals
+#### 3.2.3 Criteria for Valid Objections
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+Some concerns do not count as Objections, and may be ignored during the processing of a Proposal. A concern only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+- **(a)** If the Proposal were adopted without addressing the concern, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the concern is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity. For this criteria, decreasing clarity counts as reducing capacity, although merely failing to improve clarity does not.
+- **(b)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
+- **(c)** The concern is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant harm could result.
+- **(d)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector represents, or has permission to represent from a Role Representative who normally represents it.
 
-#### 3.2.4 Criteria for Valid Objections
+However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector either represents or has received permission to represent from a Role Representative who normally represents the Role.
+#### 3.2.4 Testing Objections
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+The Facilitator may test the validity of a claimed Objection by asking the Objector whether the Objection meets one or more criteria, and asking the Objector to explain the reasoning behind the answer. When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented arguments for why the Objection meets each requested criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+However, when an Objection is claimed on the basis of a Proposal violating the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
 
-#### 3.2.5 Testing Objections
-
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
-
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
-
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
-
-#### 3.2.6 Rules of Integration
+#### 3.2.5 Rules of Integration
 
 When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
@@ -364,13 +351,13 @@ In addition, as a Lead Link or Rep Link into a Circle, you may invite someone in
 
 Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
-#### 3.3.2 Notice & Quorum
+#### 3.3.2 Notice & Duration
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all authorized participants reasonable advance notice that a Governance Meeting will be held, including its time and location.
+A Circle may only conduct its Governance Process in a meeting if the Secretary has given all authorized participants reasonable advance notice that a Governance Meeting will be held, including its time, duration, and location. Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+Governance Meetings end once they reach the duration initially set by the Secretary. The Secretary may choose to extend the meeting duration within the meeting, but only if no participant requests otherwise.
 
-Anyone who does not attend a Governance Meeting counts as having fully participated without raising Objections to any Proposals made within the meeting.
+Anyone who does not attend a Governance Meeting or who leaves early counts as having fully participated without raising Objections to any Proposals made in their absence.
 
 #### 3.3.3 Meeting Process
 
@@ -400,23 +387,19 @@ The Facilitator must enact the Integrative Decision-Making Process as follows:
 - **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
 - **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
 - **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.4, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
+- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.5. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
 
 #### 3.3.6 Integrative Election Process
 
 The Facilitator must enact the Integrative Election Process as follows:
 
-- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
+- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, describe who is eligible to fill the Role, and present other relevant information about the Role.
 - **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
 - **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
 - **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
 - **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
 - **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
-
-#### 3.3.7 Operational Decisions in Governance Meetings
-
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
 
 ### 3.4 Interpreting the Constitution & Governance
 
@@ -424,7 +407,7 @@ As a Partner of the Organization, you may use your reasonable judgment to interp
 
 #### 3.4.1 Secretaries May Rule on Interpretation
 
-If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary had made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
+If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
 #### 3.4.2 Super-Circle Secretary May Overrule
 
@@ -491,7 +474,7 @@ The Facilitator of a Circle may declare a Process Breakdown in the Circle if the
 
 #### 4.5.2 Breakdown from Unconstitutional Behavior
 
-The Facilitator of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Lead Link or Facilitator of a Sub-Circle, then for that Sub-Circle the Secretary or Rep Link of its Super-Circle may also make this declaration.
+The Facilitator or Secretary of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs that conflicts with the rules of this Constitution.
 
 #### 4.5.3 Process Restoration
 
@@ -501,7 +484,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 - **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
 - **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
 
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
+These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
 #### 4.5.4 Escalation of Process Breakdown
 
