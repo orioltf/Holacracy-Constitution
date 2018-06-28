@@ -8,7 +8,7 @@ This **_“Constitution”_** defines rules and processes for the governance and
 
 ## Article 1: Organizational Structure
 
-### 1.1 Roles & Circles
+### 1.1 Roles
 
 The Organization’s Partners will typically perform the work of the Organization while acting in explicitly defined Roles. A **_“Role”_** definition has a descriptive name and one or more of the following:
 
@@ -16,105 +16,81 @@ The Organization’s Partners will typically perform the work of the Organizatio
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 - **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
 
-In addition, a Role may contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within the Role, as further defined in Article 3.
+A Role may also contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within the Circle, as further defined in Article 3.
 
-A **_“Circle”_** is a Role that has further broken itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. Its ***"Circle Members"*** are those Partners charged with stewarding the Circle and its Purpose for the Organization.
+### 1.2 Role Assignment
 
-The collection of Roles and Policies within a Circle or another Role make up its acting **_“Governance”_**. No one may change the Governance within a Circle or Role except through its **_“Governance Process”_**, described in Article 3.
+Whoever controls assignments to a Role may assign people to fill that Role and may revoke the assignment at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple people simultaneously.
 
-### 1.2 Lead Links
+#### 1.2.1 Eligibility
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section. A person filling that Role, while acting in that capacity, is a **_“Lead Link”_** of the Circle.
+A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the Accountabilities of the Role. A Policy may further constrain Role assignment within the Circle.
 
-#### 1.2.1 Lead Link Holds Undifferentiated Functions
+#### 1.2.2 Focus of Assignments
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle or otherwise delegated. Further, a Lead Link may not define or modify Policies on the Circle's Domains, except via its Governance Process.
+Whoever controls assignments to a Role may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
 
-#### 1.2.2 Lead Link Defines Priorities & Strategies
-
-A Circle’s Lead Link may define relative priorities for the Circle.
-
-In addition, a Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
-
-#### 1.2.3 Lead Link Controls Circle Resources
-
-To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its tangible resources, this authority vests with the Circle's Lead Link, who may then further authorize its Roles to do so.
-
-#### 1.2.4 Amending the Lead Link Role
-
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
-
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
-
-### 1.3 Role Assignment
-
-A Lead Link of a Circle may assign people to fill Roles in that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple people simultaneously.
-
-#### 1.3.1 Candidates for Assignments
-
-A Role may only be assigned to a Circle Member of the Circle, or to an external contractor or volunteer who is not a Partner of the Organization but who has agreed to enact the Accountabilities of the Role. A Policy may further constrain Role assignment within the Circle.
-
-#### 1.3.2 Resigning from Roles
-
-As a Circle Member, you may decline to accept a new Role assignment, or resign from a Role you already fill at any time, unless you’ve agreed otherwise.
-
-#### 1.3.3 Default Role Lead
-
-When a Role is unfilled or led only by external parties who are not Partners of the Organization, then any person who controls assignments into that Role is automatically considered to fill it as a Role Lead. If there is no one who clearly controls the Role's assignment, then each Lead Link of the Circle containing the Role is automatically considered to fill it as a Role Lead instead, unless otherwise specified in this Constitution or a relevant Policy.
-
-#### 1.3.4 Focus for Assignments
-
-A Role assigner may further focus a Role assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
-
-#### 1.3.5 Role Supporters & Rep Links
+#### 1.2.3 Supporting Assignments
 
 When multiple people are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains most of the authorities of a Role-filler, but only holds the duties of a Role-filler when requested by a Role Lead, as further detailed in Article 2.
 
-Role Supporters are typically not invited to participate in the containing Circle's Governance Process. However, when a Role includes one or more Partners serving as Role Supporters, they may choose one of themselves to participate in the containing Circle's Governance Process as a ***"Rep Link"*** for that Role, with the definition given in Appendix A. No more than one Partner may serve as a Role's Rep Link, unless allowed by the containing Circle's Lead Link. The Partners serving as Role Leads for that Role may participate in the selection process, but are not eligble to serve as its Rep Link. By default, choosing a Rep Link happens via the election process and rules defined in Article 3, however a Policy of the Role may specify an alternate process.
+#### 1.2.4 Resigning from Roles
 
-### 1.4 Sub-Circles
+As a Partner, you may decline to accept a new Role assignment, or resign from a Role you already fill at any time, unless you’ve agreed otherwise.
 
-Any Partner serving as Role Lead for a Role may initiate the Governance Process for that Role as if it were a Circle. If that Governance Process results in the creation of any Roles, then it automatically becomes a full Circle. When that happens, the new Circle is considered a **_“Sub-Circle”_** of the Circle containing it, while the Circle containing it becomes its **_“Super-Circle”_**. However, this only applies to Roles defined by a Circle's Governance Process; Roles defined in this Constitution are not eligible to themselves become Sub-Circles.
+#### 1.2.5 Default Role Lead
 
-A Sub-Circle is still considered a normal Role within its Super-Circle, and behaves accordingly for the purpose of applying any rule or process in this Constitution. Further, the Role Leads for that Role become the Role Leads of the Lead Link Role within the Sub-Circle. Changing those Role Leads in the Super-Circle automatically changes the Sub-Circle's Lead Links accordingly.
+When a Role is unfilled or led only by external parties who are not Partners of the Organization, then any Partner who controls assignments into that Role is automatically considered to fill it as a Role Lead.
 
-#### 1.4.1 Circle Members
+### 1.3 Circles
 
-Once a Role becomes a Sub-Circle, it has Circle Members instead of Role Supporters. Any existing Role Supporters are removed, and any Partners among them become the Sub-Circle's initial Circle Members, along with its Lead Links. Whoever controls assignments into the Role in the Super-Circle may later add or remove Circle Members of the Sub-Circle instead of Role Supporters, or may delegate this authority to the Sub-Circle itself.
+Each Role except those defined in Appendix A is also a ***“Circle”*** internally, and may contain its own Roles to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
 
-#### 1.4.2 Circle Rep Link
+The collection of Roles and Policies contained within a Circle make up its acting **_“Governance”_**. No one may change a Circle's Governance except through its **_“Governance Process”_**, described in Article 3.
 
-The selection of a Rep Link for a Sub-Circle works exactly as it does for selecting a Rep Link for any other eligible Role in the Super-Circle, but with Circle Members participating in lieu of Role Supporters. However, only those Circle Members who serve as a Role Lead or Rep Link for a Role within the Sub-Circle may participate in the selection process, unless otherwise specified in a relevant Policy. They may select any Circle Member as the Circle's Rep Link, unless that person is already its Lead Link.
+#### 1.3.1 Delegating Domains
+
+When a Circle grants a Domain to one of its Roles, the Role-fillers of that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
+
+Once a Role controls a Domain, it may create its own Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain still retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role in the event of a conflict.
+
+### 1.4 Circle Leads
+
+Any Partner assigned as Role Lead for a Role automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus the ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and the further responsibilities and authorities defined in this Section.
+
+#### 1.4.1 Circle Lead Holds Undifferentiated Functions
+
+The Circle Lead Role inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle. However, within a Circle this only applies to the extent that those Accountabilities and Domains have not been placed upon one of the Circle's Roles or otherwise delegated.
+
+#### 1.4.2 Circle Lead Defines Priorities & Strategies
+
+A Circle Lead may define relative priorities for the Circle.
+
+In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+
+#### 1.4.3 Circle Lead Controls Circle Resources
+
+To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its tangible resources, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
+
+#### 1.4.4 Amending the Circle Lead Role
+
+A Circle may not add Accountabilities or other functions to its own Circle Lead Role, or modify the Role’s Purpose, or remove the Role entirely. 
+
+However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Circle Lead Role, for as long as the delegation remains in place.
+
+### 1.5 Rep Links
+
+If a Circle contains Roles filled by Partners beyond just the Circle Lead(s) of the Circle, one of those Partners may be selected to represent the Circle within its Super-Circle's Governance Process as a ***"Rep Link"***, with the definition given in Appendix A. No more than one Partner may serve as that Role/Circle's Rep Link, unless allowed by the Circle Lead of the containing Circle. All Partners serving as Role Lead for a Role within the Circle may participate in the selection process, unless excluded from the Circle's Governance Process under another rule in this Constitution. By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
 
-#### 1.4.3 Modifying Sub-Circles
-
-Through its Governance Process, a Circle may:
-
-- **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle or remove it entirely, just like it can for any of its other Roles; or
-- **(b)** move its own Roles or Policies into a Sub-Circle, but only if they primarily enact the Purpose or Accountabilities of the Sub-Circle; or
-- **(c)** move Roles or Policies from within a Sub-Circle out into itself, but only if they are no longer needed to enact the Purpose or Accountabilities of the Sub-Circle.
-
-Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
-
-#### 1.4.4 Collapsing Sub-Circles
-
-As soon as a Sub-Circle contains no Roles other than those Roles automatically defined by this Constitution, that Sub-Circle is automatically collapsed into just a normal Role in the Super-Circle. Any Lead Links continue to serve as Role Leads for that Role, and any other Circle Members become Role Supporters for that Role.
-
-### 1.5 Delegating Domains
-
-When a Circle grants a Domain to one of its Roles, the Role Leads of that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
-
-Once a Role controls a Domain, its Role Leads may define Policies governing that Domain within their own Governance Process, without the Circle's involvement. However, the Circle also retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role and may only be modified through the Circle's Governance Process.
-
 ### 1.6 Facilitator and Secretary
 
-Each Circle includes a **_“Facilitator Role”_** and a **_“Secretary Role”_** with the definitions given in Appendix A. The person filling each becomes the Circle’s **_“Facilitator”_** and **_“Secretary”_** respectively when acting in that capacity.
+Each Circle with more than one Partner filling its Roles automatically includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, with the definitions given in Appendix A. The person filling each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively when acting in that capacity.
 
 #### 1.6.1 Elections & Eligibility
 
-The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are the Circle Members of the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
+The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
 #### 1.6.2 Election Term
 
@@ -132,8 +108,8 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 - **(a)** someone explicitly specified by the person to be replaced; or
 - **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Lead Link of the Circle, or, if there are multiple Lead Links, the first one that a Circle Members requests act as surrogate; or
-- **(d)** the first Circle Member to declare he or she is acting as surrogate.
+- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
+- **(d)** the first Partner filling a Role within the Circle to declare themselves acting as surrogate.
 
 
 ## Article 2: Operations
@@ -183,7 +159,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.2.5 Prioritizing Your Attention
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
 
 ### 2.3 Duties to Other Role-Fillers
 
@@ -244,7 +220,7 @@ A Policy may specify an alternate process or amend this default process for any 
 
 #### 2.5.3 Surrogate for Absent Members
 
-If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Lead Link of the Circle holding that Role may act within that Role to cover the gap. If the Lead Link Role is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
+If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of the Circle holding that Role may act within that Role to cover the gap. If the Circle Lead Role is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
 
 ### 2.6 Individual Action
 
@@ -263,7 +239,7 @@ You may only take Individual Action when all of the following are true:
 
 Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
 
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of a Lead Link of the Circle holding the affected entity.
+If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of a Circle Lead of the Circle holding the affected entity.
 
 #### 2.6.3 Clarifying Governance
 
@@ -271,20 +247,22 @@ If your Individual Action is an instance of a recurring activity or ongoing func
 
 #### 2.6.4 Priority of Corollary Requirements
 
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Circle Lead of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
 
 ## Article 3: Governance
 
 ### 3.1 Scope of Governance
 
-The Governance Process of a Circle has the power to:
+Within a Circle's Governance Process, the Circle may:
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for any elected Role within the Circle.
+- **(a)** define, amend, or remove its own Roles; and
+- **(b)** define, amend, or remove its own Policies; and
+- **(c)** move its own Roles or Policies into a Sub-Circle, but only if they primarily enact the Purpose or Accountabilities of the Sub-Circle; and
+- **(d)** move Roles or Policies from within a Sub-Circle out into itself, but only if they are no longer needed to enact the Purpose or Accountabilities of the Sub-Circle; and
+- **(e)** hold elections for any elected Role within the Circle.
 
-Only these outputs are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
+Only these outputs are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records. A Circle may not modify any Roles or Policies held within a Sub-Circle.
 
 #### 3.1.1 Scope of Policy
 
@@ -299,33 +277,27 @@ A Policy that changes a default rule or process in the Constitution applies only
 
 ### 3.2 Governance Participants
 
-Each Circle has a group of ***"Core Circle Members"*** who may participate in its Governance Process. By default, the Core Circle Members of a Circle are those Circle Members serving as Role Leads or Rep Links for any of its Roles. However, if the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention to fill effectively, they may exclude the Role Lead of that Role from serving as a Core Circle Member due to that Role assignment.
+Each Circle has a group of ***"Circle Members"*** who may participate in its Governance Process.
 
-A Circle may adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, any Partners serving as Role Lead or Rep Link for the invited Role also become Core Circle Members of the Circle.
+By default, the Circle Members of a Circle are those Partners assigned to lead or support the Circle itself as a Role Lead or Role Supporter within its Super-Circle, as well as any Partners serving as Role Leads or Rep Link for any Roles within the Circle. However, if the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention to fill effectively, they may exclude the Role Leads of that Role from serving as a Circle Member due to that Role assignment.
 
-During the Governance Process, each Core Circle Member may only represent the Roles in the Circle for which they serve as Role Lead or Rep Link.
+A Circle may adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, any Partners serving as Role Lead or Rep Link for the invited Role also become Circle Members of the Circle.
+
+During the Governance Process, each Circle Member may only represent the Roles in the Circle for which they serve as Role Lead or Rep Link.
 
 ### 3.3 Changing Governance
 
-Any Core Circle Member of a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all of its other Core Circle Members, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Core Circle Members must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
+Any Circle Member of a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all of its other Circle Members, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Circle Members must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
 
-Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Core Circle Members of the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
+Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Circle Members of the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
-#### 3.3.1 Making Proposals
-
-A Proposer may make a Proposal within a **_“Governance Meeting”_** of the Circle.
-
-Alternatively, a Proposer may distribute a Proposal to all required Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each participant to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, any participant may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
-
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
-
-#### 3.3.2 Criteria for Valid Proposals
+#### 3.3.1 Criteria for Valid Proposals
 
 For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from one of its normally authorized representatives. However, a Proposal is always valid regardless of the preceding criteria if it is made solely to evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any elected Role.
 
 If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, then the Facilitator must discard the Proposal. However, in making this assessment, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not discard a Proposal based on the accuracy of the Proposer's argument, nor on whether the Proposal would adequately address the Tension.
 
-#### 3.3.3 Criteria for Valid Objections
+#### 3.3.2 Criteria for Valid Objections
 
 Some concerns do not count as Objections, and may be ignored during the processing of a Proposal. A concern only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
@@ -338,13 +310,13 @@ However, regardless of the above criteria, a concern about adopting a Proposal a
 
 - **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
-#### 3.3.4 Testing Objections
+#### 3.3.3 Testing Objections
 
 The Facilitator may test the validity of a claimed Objection by asking the Objector whether the Objection meets one or more criteria, and asking the Objector to explain the reasoning behind the answer. When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented arguments for why the Objection meets each requested criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
 However, when an Objection is claimed on the basis of a Proposal violating the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
 
-#### 3.3.5 Rules of Integration
+#### 3.3.4 Rules of Integration
 
 When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
@@ -355,19 +327,19 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 ### 3.4 Governance Meetings
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+The Secretary of a Circle is responsible for scheduling ***"Governance Meetings"*** to enact the Circle’s Governance Process.
 
-In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member of the Circle.
+In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Circle Member of the Circle.
 
 The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
 
 #### 3.4.1 Attendance
 
-The Core Circle Members of a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting and become Core Circle Members representing those Roles, even if they are not normally Core Circle Members of the Circle.
+The Circle Members of a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting and become Circle Members representing those Roles, even if they are not normally Circle Members of the Circle.
 
-In addition, as a Lead Link or Rep Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Core Circle Member representing your link Role in the Governance Meeting, but only while directly processing that specific Tension.
+In addition, as a Circle Lead for a Circle or a Rep Link into the Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting your Circle Lead or Rep Link Role. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Circle Member representing your Circle Lead or Rep Link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
-Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings.
 
 #### 3.4.2 Notice & Duration
 
@@ -419,25 +391,31 @@ The Facilitator must enact the Integrative Election Process as follows:
 - **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
 - **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
 
-### 3.5 Interpreting the Constitution & Governance
+### 3.5 Asynchronous Governance
+
+Instead of using a Governance Meeting, a Proposer may make a Proposal by distributing it to all Circle Members asynchronously using any written communication channel allowed by the Circle’s Secretary. Each Circle Member may then ask clarifying questions, share reactions, or raise Objections asynchronously. At any point before the Proposal is adopted, any participant may stop the asynchronous processing by escalating the Proposal to a Governance Meeting instead. The asynchronous processing also stops if any Objections are raised, at which point the Proposer may seek an integration and repropose, or bring the Proposal to the a Governance Meeting for further processing.
+
+A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+
+### 3.6 Interpreting the Constitution & Governance
 
 As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. However, the following additional terms apply:
 
-#### 3.5.1 Secretaries May Rule on Interpretation
+#### 3.6.1 Secretaries May Rule on Interpretation
 
 If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
-#### 3.5.2 Super-Circle Secretary May Overrule
+#### 3.6.2 Super-Circle Secretary May Overrule
 
 A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
 
-#### 3.5.3 Interpretations Become Standards
+#### 3.6.3 Interpretations Become Standards
 
 When ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in writing. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
 
 A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. If such a contradiction is also published, its logic and interpretations become the new standard that all future rulings must align with.
 
-#### 3.5.4 Striking Invalid Governance
+#### 3.6.4 Striking Invalid Governance
 
 Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
@@ -450,51 +428,49 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 ### 4.2 Anchor Circle
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls. The Anchor Circle has no Super-Circle, and does not elect a Rep Link. All Partners of the Organization are Circle Members of the Anchor Circle.
+Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls. The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
 
-#### 4.2.1 Lead Link for the Anchor Circle
+The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
 
-The Ratifiers may either appoint one or more Lead Links for the Anchor Circle, or leave the Anchor Circle without any Lead Links.
+#### 4.2.1 Circle Leads for the Anchor Circle
 
-If the Ratifiers leave the Anchor Circle without a Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority operationally by making a Proposal via the Circle's Governance Process.
+The Ratifiers may either appoint one or more Circle Leads for the Anchor Circle, or leave the Anchor Circle without any Circle Leads.
 
-Further, in an Anchor Circle with no Lead Link, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by making a Proposal to allow a specific impact using the Circle’s Governance Process.
+If the Ratifiers leave the Anchor Circle without a Circle Lead, all decisions that normally require Circle Lead authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Circle Lead authority operationally by making a Proposal via the Circle's Governance Process.
+
+Further, in an Anchor Circle with no Circle Lead, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by making a Proposal to allow a specific impact using the Circle’s Governance Process.
 
 #### 4.2.3 Organization’s Purpose
 
 The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
 
-The Lead Link Role of the Anchor Circle holds an Accountability for discovering the Purpose of the Organization, and controls this Purpose definition as its Domain. If the Anchor Circle has no Lead Link, this Accountability is retained by the Ratifiers until delegated to a Role within the Circle, and the Domain is held by the Anchor Circle itself.
+The Circle Lead Role of the Anchor Circle holds an Accountability for discovering the Purpose of the Organization, and controls this Purpose definition as its Domain. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Circle, and the Domain is held by the Anchor Circle itself.
 
 #### 4.2.4 Updating the Anchor Circle
 
-The Lead Link Role of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
 
-The Lead Link Role of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
+The Circle Lead Role of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
-### 4.3 Initial Structure
-
-Either the Ratifiers or a Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
-
-### 4.4 Legacy Policies and Systems
+### 4.3 Legacy Policies and Systems
 
 Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
 
 However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
 
-### 4.5 Process Breakdown
+### 4.4 Process Breakdown
 
 A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
 
-#### 4.5.1 Breakdown from Failed Governance
+#### 4.4.1 Breakdown from Failed Governance
 
 The Facilitator of a Circle may declare a Process Breakdown in the Circle if the participants in one of its Governance Meetings fail to successfully process a Proposal, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
 
-#### 4.5.2 Breakdown from Unconstitutional Behavior
+#### 4.4.2 Breakdown from Unconstitutional Behavior
 
 The Facilitator or Secretary of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs that conflicts with the rules of this Constitution.
 
-#### 4.5.3 Process Restoration
+#### 4.4.3 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
@@ -504,13 +480,13 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
-#### 4.5.4 Escalation of Process Breakdown
+#### 4.4.4 Escalation of Process Breakdown
 
 A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
-### 4.6 Constitution Amendments and Repeal
+### 4.5 Constitution Amendments and Repeal
 
 The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
