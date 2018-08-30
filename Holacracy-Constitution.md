@@ -16,35 +16,35 @@ The Organization’s Partners will typically perform the work of the Organizatio
 - **(b)** one or more **_“Domains”_**, which are assets, processes, or other things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 - **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
 
-A Role may also contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within the Circle, as further defined in Article 3.
+A Role may also contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within that Role, as further defined in Article 3.
 
 ### 1.2 Role Assignment
 
-Whoever controls assignments to a Role may assign people to fill that Role and may revoke the assignment at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple people simultaneously.
+A Role may control assignments into another Role as a Domain. Anyone filling a Role with such a Domain may assign people to fill the target Role or remove people from that Role at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role. A Policy may further constrain Role assignments or assignment removals.
 
 #### 1.2.1 Eligibility
 
-A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the Accountabilities of the Role. A Policy may further constrain Role assignment within the Circle.
+A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact all of the duties required of the assignment. A Role may be assigned to multiple people simultaneously. 
 
-#### 1.2.2 Focus of Assignments
-
-Whoever controls assignments to a Role may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
-
-#### 1.2.3 Supporting Assignments
-
-When multiple people are assigned to fill a Role with no focus or within the same focus, the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains the authorities of the Role, but only holds the duties when requested by a Role Lead, as further detailed in Article 2.
-
-#### 1.2.4 Resigning from Roles
+#### 1.2.2 Resigning from Roles
 
 As a Partner, you may decline to accept a new Role assignment, or resign from a Role you already fill at any time, unless you’ve agreed otherwise.
 
-#### 1.2.5 Default Role Lead
+#### 1.2.3 Default Role Lead
 
 When a Role is unfilled or led only by external parties who are not Partners of the Organization, then any Partner who controls assignments into that Role is automatically considered to fill it as a Role Lead.
 
+#### 1.2.4 Focusing an Assignment
+
+A Role assigner may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
+
+#### 1.2.5 Supporting Assignments
+
+As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds most of the duties when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
+
 ### 1.3 Circles
 
-Each Role except those defined in Appendix A is also a ***“Circle”*** internally, and may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
+The inside of each Role is a ***“Circle”***, except for those Roles defined in Appendix A. A Circle may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
 
 The collection of Roles and Policies contained within a Circle make up its acting **_“Governance”_**. No one may change a Circle's Governance except through its **_“Governance Process”_**, described in Article 3.
 
@@ -60,7 +60,7 @@ Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead
 
 #### 1.4.1 Circle Lead Holds Undifferentiated Functions
 
-The Circle Lead Role inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle. However, within a Circle this only applies to the extent that those Accountabilities and Domains have not been placed upon one of the Circle's Roles or otherwise delegated.
+The Circle Lead Role inherits the Purpose and any Accountabilities on the Circle itself. However, within a Circle this only applies to the extent that those Accountabilities have not been placed upon one of the Circle's Roles or otherwise delegated.
 
 #### 1.4.2 Circle Lead Defines Priorities & Strategies
 
@@ -68,9 +68,9 @@ A Circle Lead may define relative priorities for the Circle.
 
 In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 1.4.3 Circle Lead Controls Circle Resources
+#### 1.4.3 Circle Lead Controls Circle Assets
 
-To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its tangible resources, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
+To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its money, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
 
 #### 1.4.4 Amending the Circle Lead Role
 
@@ -98,15 +98,15 @@ A Circle may add Accountabilities or Domains to its own Rep Link Role, as well a
 
 ### 1.6 Facilitator and Secretary
 
-Each Circle with more than one Partner filling its Roles automatically includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, with the definitions given in Appendix A. The person filling each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively when acting in that capacity.
+Each Circle with more than one Circle Member automatically includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, with the definitions given in Appendix A. The person filling each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively when acting in that capacity.
 
 #### 1.6.1 Elections & Eligibility
 
-The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
+Upon request of any Circle Member, the Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
 #### 1.6.2 Election Term
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Role. However, even before a term has expired, any participant in the Circle's Governance Process may trigger a new election at any time, using the process defined in Article 3.
+During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Role. However, even before a term has expired, any Circle Member may trigger a new election at any time.
 
 #### 1.6.3 Amending Facilitator or Secretary
 
@@ -121,7 +121,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 - **(a)** someone explicitly specified by the person to be replaced; or
 - **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
 - **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Partner filling a Role within the Circle to declare themselves acting as surrogate.
+- **(d)** the first Circle Member to declare themselves acting as surrogate.
 
 
 ## Article 2: Operations
@@ -140,11 +140,11 @@ In service of your Role, you have the authority to use and impact your Role's Do
 
 You may also use and impact any Domain that the Circle containing your Role owns, or any Domain the Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within your Circle.
 
-You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used.
+You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
 
-#### 2.1.3 Don't Dispose of Resources
+#### 2.1.3 Don't Dispose of Assets
 
-While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
+While energizing your Role, you may not spend any money or dispose of any significant property of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and other assets within Domains assigned to your Role.
 
 ### 2.2 Responsibilities of Role Leads
 
@@ -175,7 +175,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.3.2 Prioritizing Your Attention
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further consider and integrate any official prioritizations and Strategies of the Circle or acting upon the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle. If your judgment of how to integrate these leads you to prioritize in a way that's substantially opposed to them, you must also notify the Circle Lead of your decision.
 
 ### 2.4 Duties to Other Role-Fillers
 
@@ -229,7 +229,7 @@ Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use 
 - **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics that any other participant has asked them to regularly report on.
 - **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles invited to the meeting. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another participant has an active request for regular updates on a specific Project or Accountability, that one must be included.
 - **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items.
-- **(f) Triage Issues:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate pathway for resolving their Tension. However, the agenda item owner may only process Tensions and make requests to serve a Role that was explicitly invited to the meeting. Further, within the meeting each participant only has duties that come from Roles they fill that were explicitly invited to the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(f) Triage Issues:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate way to resolve their Tension. However, the agenda item owner may only process Tensions and make requests to serve a Role that was explicitly invited to the meeting. Further, within the meeting each participant only has duties that come from Roles they fill that were explicitly invited to the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 - **(g) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
 A Policy may specify an alternate process or amend this default process for any standing Tactical Meeting within its authority to govern.
@@ -248,7 +248,7 @@ You may only take Individual Action when all of the following are true:
 
 - **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
 - **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause the Organization to spend tangible resources, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
+- **(c)** Your action would not cause the Organization to spend its money, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
 - **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
 #### 2.7.2 Communication & Restoration
@@ -274,8 +274,8 @@ Within a Circle's Governance Process, the Circle may:
 
 - **(a)** define, amend, or remove its own Roles; and
 - **(b)** define, amend, or remove its own Policies; and
-- **(c)** move its own Roles or Policies into a Sub-Circle, but only if they primarily enact the Purpose or Accountabilities of the Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle out into itself, but only if they are no longer needed to enact the Purpose or Accountabilities of the Sub-Circle; and
+- **(c)** move its own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they primarily enact the Purpose or Accountabilities of that Circle; and
+- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Circle; and
 - **(e)** hold elections for any elected Role within the Circle.
 
 Only these outputs are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records. A Circle may not modify any Roles or Policies held within a Sub-Circle.
@@ -314,7 +314,7 @@ Some concerns do not count as Objections, and may be ignored during the processi
 
 However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
 #### 3.2.3 Testing Objections
 
@@ -373,7 +373,7 @@ The Facilitator must build an agenda of Tensions to process within a Governance 
 
 - **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
 - **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting is a special Governance Meeting scheduled at the request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.4.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.4.5.
+- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined below. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined below.
 
 #### 3.3.5 Integrative Decision-Making Process
 
@@ -395,7 +395,7 @@ The Facilitator must enact the Integrative Election Process as follows:
 - **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
 - **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
 - **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
-- **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
+- **(f) Process Proposal:** The Facilitator must move to the Integrative Decision-Making Process to resolve their Proposal, but start with the Objection round. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
 
 ### 3.4 Asynchronous Governance
 
@@ -448,13 +448,11 @@ Further, in an Anchor Circle with no Circle Lead, the authority Roles normally h
 
 #### 4.2.3 Organization’s Purpose
 
-The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
-
-The Circle Lead Role of the Anchor Circle holds an Accountability for discovering the Purpose of the Organization, and controls this Purpose definition as its Domain. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Circle, and the Domain is held by the Anchor Circle itself.
+The Organization's purpose is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. This becomes the Purpose of the Anchor Circle, and the Circle Lead Role of the Anchor Circle holds an Accountability for discovering this Purpose. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Anchor Circle.
 
 #### 4.2.4 Updating the Anchor Circle
 
-The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Purpose and Domains, and add or modify its Accountabilities.
 
 The Circle Lead Role of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
@@ -480,9 +478,10 @@ The Facilitator or Secretary of a Circle may declare a Process Breakdown within 
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
+- **(a)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process; and
+- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
+- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
+- **(d)** the Facilitator of the Super-Circle gains the authority to assign themself or someone else as an additional Circle Lead of the Circle, and any decision that person makes as Circle Lead trumps and prevents any conflicting decision by another Circle Lead for the duration of the Process Breakdown.
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
