@@ -60,11 +60,11 @@ Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead
 
 #### 1.4.1 Defining Priorities & Strategies
 
-A Circle Lead may define relative priorities for the Circle. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 1.4.2 Controling Circle Assets
+#### 1.4.2 Routing External References
 
-To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its money, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
+Whenever Governance outside the Circle references the Circle itself or any Role ultimately contained within the Circle, a Circle Lead may update that reference to refer to another Role within the Circle instead. This does not require using the Governance Process of any Circle.
 
 #### 1.4.3 Amending the Circle Lead Role
 
@@ -136,7 +136,11 @@ You cannot exert control or cause a material impact within a Domain delegated to
 
 #### 2.1.3 Don't Dispose of Assets
 
-While energizing your Role, you may not spend any money or dispose of any significant property of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and other assets within Domains assigned to your Role.
+While energizing your Role, you may not spend any money or dispose of any significant property of the Organization, nor may you significantly limit any rights of the Organization, unless you are explicitly authorized to do so. This even applies to property, rights, and other assets within Domains assigned to your Role.
+
+You can get this authorization by announcing your intent to spend in writing to all Circle Members of a Circle that already has the right to spend the money or assets you intend to spend, and naming the Role you're acting in. You must then allow a reasonable timeframe for them to consider the potential expense before proceeding, and any of them may block your ability to proceed by escalating the expense for additional consideration. Once escalated, a Circle Lead of that Circle may further assess and choose to reverse the escalation. After you've allowed reasonable time for consideration and no escalations stand, your Role gains the right to spend the stated resource from that Circle's authorization, but only for whatever purpose and within any parameters you shared in your announcement. From there, you may either proceed with the spending, directly authorize another Role to do so, or wait for other Roles to gain the right to spend from your authorization using this same process.
+
+A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources without going through this process.
 
 ### 2.2 Responsibilities of Role Leads
 
@@ -167,7 +171,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.3.2 Prioritizing Your Attention
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further consider and integrate any official prioritizations and Strategies of the Circle or acting upon the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle. If your judgment of how to integrate these leads you to prioritize in a way that's substantially opposed to them, you must also notify the Circle Lead of your decision.
+Whenever you have time available to act in a Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. In assessing that, you must further consider and integrate any relative value judgments and Strategies defined by a Circle Lead or other officially authorized source of the Circle holding the Role, as well as any acting upon that Circle itself. If for any reason you intend to prioritize in a way that you believe is substantially opposed to the published priorities of the Circle holding your Role, you must notify the Circle Lead of your intent.
 
 ### 2.4 Duties to Other Role-Fillers
 
@@ -221,7 +225,7 @@ Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use 
 - **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics that any other participant has asked them to regularly report on.
 - **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles invited to the meeting. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another participant has an active request for regular updates on a specific Project or Accountability, that one must be included.
 - **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items.
-- **(f) Triage Issues:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate way to resolve their Tension. However, the agenda item owner may only process Tensions and make requests to serve a Role that was explicitly invited to the meeting. Further, within the meeting each participant only has duties that come from Roles they fill that were explicitly invited to the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(f) Triage Issues:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others and make requests given the Roles and duties of other participants, until the agenda item owner finds an adequate way to resolve their Tension. However, the agenda item owner may only process Tensions and make requests to serve a Role that was explicitly invited to the meeting. Further, within the meeting each participant only has duties that come from Roles they fill that were explicitly invited to the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 - **(g) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
 A Policy may specify an alternate process or amend this default process for any standing Tactical Meeting within its authority to govern.
@@ -301,7 +305,7 @@ Some concerns do not count as Objections, and may be ignored during the processi
 
 - **(a)** If the Proposal were adopted without addressing the concern, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the concern is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity. For this criteria, decreasing clarity counts as reducing capacity, although merely failing to improve clarity does not.
 - **(b)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The concern is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant harm could result.
+- **(c)** The proposal would immediately or necessarily cause the harm, or it might cause harm but that possibility still needs to be dealt with now because the Circle won't have an adequate opportunity to adapt before significant harm could result.
 - **(d)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of one of the Objector's Roles in the Circle, even if the Objector filled no other Roles in the Organization.
 
 However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
@@ -325,11 +329,9 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 ### 3.3 Governance Meetings
 
-The Secretary of a Circle is responsible for scheduling ***"Governance Meetings"*** to enact the Circle’s Governance Process.
+The Secretary of a Circle is responsible for scheduling ***"Governance Meetings"*** to enact the Circle’s Governance Process. The Facilitator is responsible for presiding over all Governance Meetings in alignment with the rules herein.
 
-In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Circle Member of the Circle.
-
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Circle Member of the Circle. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change, such as focusing the meeting on a specific Tension or limiting it to only modifying certain Roles. If so specified, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent and only making changes within the stated limits.
 
 #### 3.3.1 Attendance
 
@@ -428,7 +430,9 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 ### 4.2 Anchor Circle
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls. The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization; it has no Super-Circle, and does not elect a Rep Link.
+
+Unless otherwise specified by the Ratifiers, the Anchor Circle automatically controls all Domains that the Organization itself controls, and has all the authority that the Organization itself has, including authorities to dispose of the Organization's property, limit its rights, and spend its money.
 
 The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
 
@@ -440,11 +444,11 @@ If the Ratifiers leave the Anchor Circle without a Circle Lead, all decisions th
 
 Further, in an Anchor Circle with no Circle Lead, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by making a Proposal to allow a specific impact using the Circle’s Governance Process.
 
-#### 4.2.3 Organization’s Purpose
+#### 4.2.2 Organization’s Purpose
 
 The Organization's purpose is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. This becomes the Purpose of the Anchor Circle, and the Circle Lead Role of the Anchor Circle holds an Accountability for discovering this Purpose. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Anchor Circle.
 
-#### 4.2.4 Updating the Anchor Circle
+#### 4.2.3 Updating the Anchor Circle
 
 The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Purpose and Domains, and add or modify its Accountabilities.
 
